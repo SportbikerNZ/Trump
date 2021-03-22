@@ -2,9 +2,32 @@
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/SportbikerNZ/PoolPic/master/Hair%20scaled%203.png",
         "url_png_logo": "https://raw.githubusercontent.com/SportbikerNZ/PoolPic/master/Hair%20scaled%203.png",
-        "location": "New Zealand",
+        "location": "Auckland, New Zealand",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
         "about": {
             "me": "Someone tired of the manipulation and authoritarianism coming from the left",
-            }
+            "server": "",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "",
+        "1": ""
+      }
     }
 }
